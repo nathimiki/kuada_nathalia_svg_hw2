@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" class="mainIcon" id="spaceship" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 221.7 221.7" style="enable-background:new 0 0 221.7 221.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;fill:none;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;}
+	.st2{display:inline;}
+	.st3{fill:none;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;}
+	.st4{fill:#E5A913;}
+	.st4:hover {display: block;
+	fill:#303030;}
+	.st5{fill:none;stroke:#FFFFFF;stroke-width:3;stroke-miterlimit:10;}
+
+	#detail {
+	display:block;
+}
+
+@media screen and (max-width:200px) {
+#detail {
+	display:none;
+}
+}
+
+</style>
+<g id="circle_background">
+	<circle id="circle_background" class="st4" cx="110.7" cy="110.8" r="96.7"/>
+</g>
+<g id="circle">
+	<circle id="circle" class="st5" cx="110.7" cy="110.8" r="85.4"/>
+</g>
+<g id="spaceship">
+	<polygon id="XMLID_14_" class="st3" points="84.2,112.6 123.9,72.7 148.6,97.6 109.7,138.5 	"/>
+	<path id="XMLID_15_" class="st3" d="M125.3,71.6l24.4,24.6c0,0,16.2-24.9,8.1-31.4c-6.7-5.3-16.3-2-20.2-0.4c-0.8,0.3-2.9,1.2-6,3
+		L125.3,71.6z"/>
+	<path id="XMLID_16_" class="st3" d="M83.1,113.9l24.9,25.6c0,0-5.7,2.4-10.1-1.6c-4.4-4-14.9-14.6-14.9-14.6S79.7,118.6,83.1,113.9
+		z"/>
+	<path id="XMLID_18_" class="st3" d="M128.8,119.9l-16,17.1c0,0,0.8,4.3,7.5-0.8l-5.2,5.9l1.1,10.3c0,0,13-13,13.1-18.2
+		C129.5,129,128.8,119.9,128.8,119.9z"/>
+	<path id="XMLID_17_" class="st3" d="M102.9,92.2l-16.7,16.4c0,0-4.3-0.7,0.6-7.5l-5.8,5.3l-10.3-0.8c0,0,12.6-13.4,17.9-13.6
+		S102.9,92.2,102.9,92.2z"/>
+	<circle id="XMLID_19_" class="st3" cx="120.8" cy="100.1" r="8.6"/>
+	<path id="XMLID_23_" class="st3" d="M62,152l9.5-0.9l-0.9,7.9c0,0,14.4-2.7,16.7-14.3c1.2-5.8-1.6-8.6-4.6-10
+		c-3.4-1.6-7.4-1.2-10.6,0.7C67.7,138.1,61.6,143.3,62,152z"/>
+	<path id="XMLID_22_" class="st3" d="M73.4,144.1c0-2.5,3.8-4.5,8.4-4.5"/>
+</g>
+<g id="detail">
+	<path id="XMLID_20_" class="st3" d="M135.9,73.9c0-2.7,5.6-4.9,12.6-4.9"/>
+	<path id="XMLID_21_" class="st3" d="M123.1,97.3c-1.6-1.2-3.9-0.9-5,0.7"/>
+</g>
+</svg>

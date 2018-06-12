@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" class="mainIcon" id="meteor" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 221.7 221.7" style="enable-background:new 0 0 221.7 221.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;fill:none;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;}
+	.st2{display:inline;}
+	.st3{fill:none;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;}
+	.st4{fill:#E5A913;}
+	.st4:hover {display: block;
+	fill:#303030;}
+	.st5{fill:none;stroke:#FFFFFF;stroke-width:3;stroke-miterlimit:10;}
+
+	#detail {
+	display:block;
+}
+
+@media screen and (max-width:200px) {
+#detail {
+	display:none;
+}
+}
+
+</style>
+<g id="circle_background">
+	<circle id="circle_background" class="st4" cx="110.7" cy="110.8" r="96.7"/>
+</g>
+<g id="circle">
+	<circle id="circle" class="st5" cx="110.7" cy="110.8" r="85.4"/>
+</g>
+<g id="meteor">
+	<path id="XMLID_47_" class="st3" d="M65.4,115.4c0,0,10.5-8.1,23.8,4.6c13.4,12.8,13.9,14.8,13.9,14.8s6.1,6.1-2,11.6
+		c-6.3,4.3-11.3,9-13.1,10.8c-0.7,0.6-1.4,1.2-2.2,1.6c-3.1,1.6-11.1,5.1-18.9,3c-11-3-9-13.4-9-13.4s1.2-2.3-1.5-8.1
+		c-2.6-5.8-9.3-16.3-1.2-20S65.4,115.4,65.4,115.4z"/>
+	<line id="XMLID_50_" class="st3" x1="74.3" y1="111.2" x2="89.1" y2="101.6"/>
+	<line id="XMLID_52_" class="st3" x1="97" y1="96" x2="137" y2="67.7"/>
+	<line id="XMLID_53_" class="st3" x1="143.3" y1="64.6" x2="150.5" y2="59.2"/>
+	<line id="XMLID_54_" class="st3" x1="92.2" y1="114.1" x2="115.3" y2="98.4"/>
+	<line id="XMLID_55_" class="st3" x1="120.9" y1="94.5" x2="140.3" y2="81"/>
+	<line id="XMLID_56_" class="st3" x1="96.5" y1="126.5" x2="105.9" y2="119.7"/>
+	<line id="XMLID_57_" class="st3" x1="113.3" y1="115.4" x2="131.8" y2="101.4"/>
+	<line id="XMLID_58_" class="st3" x1="109.2" y1="131.5" x2="143.6" y2="107.5"/>
+	<line id="XMLID_59_" class="st3" x1="149.4" y1="103.4" x2="170.3" y2="88.8"/>
+</g>
+<g id="detail">
+	<path id="XMLID_45_" class="st3" d="M74.4,132.5c0,0-7.3,2.5-7,8.3c0.3,5.8,2.9,11.2,2.9,11.2s11.3-1.7,12.2-7
+		C83.4,139.7,81.2,131.9,74.4,132.5z"/>
+	<path id="XMLID_48_" class="st3" d="M104.3,137.4c0,0,3.9,4.4-3.2,9s-7.8,5.5-7.8,5.5s-3.2-8.7,3-12S104.3,137.4,104.3,137.4z"/>
+	<path id="XMLID_49_" class="st3" d="M66.5,115.3c0,0,5.6-5.3,15.7-0.4c0,0-1,4.9-6.5,4.4C70.2,118.7,66.5,115.3,66.5,115.3z"/>
+	<path id="XMLID_51_" class="st3" d="M54.2,121.2c0,0-5.3,3.1-1.4,11.6l3.5,6.8c0,0,8.1-7.6,6.3-11
+		C60.9,125.2,54.2,121.2,54.2,121.2z"/>
+</g>
+</svg>

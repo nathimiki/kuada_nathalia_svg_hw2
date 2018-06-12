@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" class="mainIcon" id="comet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 221.7 221.7" style="enable-background:new 0 0 221.7 221.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;fill:none;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;}
+	.st2{fill:#E5A913;}
+	.st2:hover {display: block;
+	fill:#303030;}
+	.st3{fill:none;stroke:#FFFFFF;stroke-width:3;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;}
+
+	#detail {
+	display:block;
+}
+
+@media screen and (max-width:200px) {
+#detail {
+	display:none;
+}
+}
+
+</style>
+<g id="circle_background">
+	<circle id="circle_background" class="st2" cx="110.7" cy="110.8" r="96.7"/>
+</g>
+<g id="circle">
+	<circle id="circle" class="st3" cx="110.7" cy="110.8" r="85.4"/>
+</g>
+<g id="comet">
+	<circle id="XMLID_9_" class="st4" cx="141" cy="83.5" r="20.4"/>
+	<line id="XMLID_10_" class="st4" x1="120" y1="84.5" x2="71.9" y2="115.8"/>
+	<line id="XMLID_11_" class="st4" x1="125.5" y1="96.7" x2="57.9" y2="158"/>
+	<line id="XMLID_12_" class="st4" x1="139.7" y1="104.5" x2="103.3" y2="160.9"/>
+</g>
+<g id="detail">
+	<path id="detail" class="st4" d="M148.5,77.5c-3.8-6.3-8.8-7.7-15-1.8"/>
+</g>
+</svg>
